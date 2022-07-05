@@ -1,4 +1,4 @@
-[![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
+[![Gmail Badge](https://shields.io/badge/NPM-413123123%20downloads-orange?logo=npm&style=for-the-badge)](mailto:dhruvjainpenny@gmail.com)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
