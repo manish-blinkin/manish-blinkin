@@ -1,5 +1,3 @@
-[![Gmail Badge](https://shields.io/badge/NPM-413123123%20downloads-orange?logo=npm&style=for-the-badge)](https://shields.io/badge/NPM-413123123%20downloads-orange?logo=npm&style=for-the-badge)
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
@@ -69,10 +67,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manish-blinkin&show_icons=true&theme=gotham" alt="manish" />
 
 <br/>
-![NPM Stats](https://shields.io/badge/NPM-413123123%20downloads-orange?logo=npm&style=for-the-badge)
+[![NPM Downloads](https://shields.io/badge/NPM-413123123%20downloads-orange?logo=npm&style=for-the-badge)](https://shields.io/badge/NPM-413123123%20downloads-orange?logo=npm&style=for-the-badge)
 
 ### I am learning blog writings here - [manishsaraan.com](https://manishsaraan.com)
-	<br/>
+	
 	
 <h3>Where to find me</h3>
 <p><a href="https://github.com/manishsaraan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/manish_saraan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/manishsaraan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
