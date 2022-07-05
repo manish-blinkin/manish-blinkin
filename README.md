@@ -74,7 +74,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manish-blinkin&show_icons=true&theme=gotham" alt="manish" />
 
 <br/>
-![NPM Stats](https://shields.io/badge/NPM-413123123%20downloads-orange?logo=npm&style=for-the-badge)
+![NPM Stats]([https://shields.io/badge/NPM-413123123%20downloads-orange?logo=npm&style=for-the-badge](https://shields.io/badge/NPM-413123123%20downloads-orange?logo=npm&style=for-the-badge))
 
 ### I am learning blog writings here - [maddhruv.xyz](http://maddhruv.xyz)
 	<br/>
