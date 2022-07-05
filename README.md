@@ -10,22 +10,15 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -44,7 +37,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/manishsaraan/email-validator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
@@ -67,8 +60,8 @@
 </table>
 
 <h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
-<p><img width="200" src="https://res.cloudinary.com/stickflame/image/upload/v1653054918/2-AE5-DEE7-9-EAE-4-D03-B035-889-A4-C1-A0-E39_m0665v.jpg" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;%3D%3DwI90zd3pmRnBXTxJzMVdDW0IWexlXa1JnWSZ0cLRlZSBzYndVQrYVMyQnaZVVN5pXN3MVV5MGN1RlYzR2cSVDUBdzRz1USDJTYmR1YJJmWWR0aKF3R4MjYlRESqdTOPZGVRZWTCBFWzlzNaZmZzI2KqVkMUdnUCVVbJdUVTNHSBtWUT1EbvplaoJTRyc1QBNlRrhlZwN0YhRTTwBXWSNlNxN3ZxZnaJBjdtJmVpJVTIxUMZpVQxgkaxxmRTRmc6hGaOVEZy0EVZVnUzomRzxWbltCNzgEe1lnb0hUc1lkW14GR4czQqlzSvdmQjBlemVWQllEVspFUk5WdGJEZ2RnarolSBRGbKlDOxsCaxUlM1QneSpVO5pkcVBnZ092VsFVeDhHTORlMpBnTZRlY3dDf8tyVVZncyIGf8hURvVWUmlEVNlla69UdJ1EOzF2MaNWUIpUM3JmbsRWN4smV6BDaDlUVSZzS3EVOER1TPdDVlxUROVjQGplW5YkVydWS0oGe6llU1NVQsZ1dLdnU5RjaDBXbwEkWwF2TIxkdxIVStZ1UqBXZMR1UwYjWTh3ZXdnQlBzT4YmaLhHZZN1MTF2YCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;j0TRNZlTLR1Zkd2RBRjQ3RzM3czU3A1UwsGf8d2Z0BXcTNFNZ1mZ4MHUUZjTKNjZ3hlRhtiT0NmbDdGe04EeEV2VLBFV04GUNZVYhNWQtBlWxpEO8x3VpNVNyUGR6lDakJDakdEMWR2TulXM1BXM3smR4IDNHhVRBNlYygUSrF2aQlTOr9WTBNVYxo2Z0Q3M4RFa1tkVtdkUuR0cR92U3FGV2I2YCJGf8FGRyEUWPt2KqlEdnFGSRVHOqp0K31WRIF2UsJlbxVzSR1EeClFTWdnQhNnbChzTrQEf8hVR0JTNMl2YydWUB1kd00WNFpkeKl2a5wHf0R1MnpkMKBHNG1Eas9mNTJ2TaVTR0MUbHp0NkljYUBXUsFzT1dUY1QFaxtyb1dzRElVYHl0ZTRWWtFFW0F1c5U3KuplYV52S3NmcrhmVaxHf1Zkex4kclZ1YXFXNkRmaT9UYiRVYiV1T8xXM6R0USZUVyhTS0gWM6llU1NVQsZ1dLdnU5RjaDBXbwEkWwF2TIxkdxIVStZ1UqBXZMR1UwYjWTh3ZXdnQlBzT4YmaLhHZZN1MTF2YCpmbZ5UdOhGelBTPx9SbhJ3ZhR3culWL5JWLkVGdz9Gav02bj5SarV3YpBnLx4GZj9yL6MHc0RHa" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>
+<p><img width="200" src="https://res.cloudinary.com/stickflame/image/upload/v1653054918/2-AE5-DEE7-9-EAE-4-D03-B035-889-A4-C1-A0-E39_m0665v.jpg" /><img width="200" src="https://res.cloudinary.com/stickflame/image/upload/v1653054918/2-AE5-DEE7-9-EAE-4-D03-B035-889-A4-C1-A0-E39_m0665v.jpg" /><img width="200" src="https://res.cloudinary.com/stickflame/image/upload/v1653054918/2-AE5-DEE7-9-EAE-4-D03-B035-889-A4-C1-A0-E39_m0665v.jpg" /> </p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/guywithbluecap/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @guywithbluecap!</a><br/>
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manish-blinkin&show_icons=true&theme=gotham" alt="manish" />
@@ -76,9 +69,9 @@
 <br/>
 ![NPM Stats](https://shields.io/badge/NPM-413123123%20downloads-orange?logo=npm&style=for-the-badge)
 
-### I am learning blog writings here - [maddhruv.xyz](http://maddhruv.xyz)
+### I am learning blog writings here - [manishsaraan.com](https://manishsaraan.com)
 	<br/>
 	
 <h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/manishsaraan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/manish_saraan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/manishsaraan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
